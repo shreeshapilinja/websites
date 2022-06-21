@@ -1,0 +1,22 @@
+.h1{
+  color: red;
+  background-color: lightgreen;
+}
+#div1{
+  float: left;
+  padding-left: 20px;
+}
+.h2{
+  color: blueviolet;
+}
+.div2
+{
+  font-weight: bold;
+  font-size: larger;
+  background-image: url("1photo.jpg");
+  float: left;
+  opacity: .5;
+  animation-duration : 10s;
+  transition-duration : 20s;
+  align-self: start;
+}
